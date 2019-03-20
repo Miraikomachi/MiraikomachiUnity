@@ -2,7 +2,6 @@
 
 ミライ小町オリジナルソング「ミライ」のミュージックビデオで使用したキャラクターモデルとダンスモーション、楽曲データを入れたUnity向けプロジェクトです。
 
-<<<<<<< HEAD
 ## Unit version
 
 Unity 2018.1.f4 or later
@@ -66,7 +65,7 @@ Contact information (miraikomachi@bandainamcostudios.co.jp)
 We may change the contents of this license from time to time at our discretion.
 
 If this English version of the Character Guideline conflict to the Japanese version, the Japanese version shall prevail.
-=======
+
 ## Unityバージョン
 
 Unity 2018.1.f4以上
@@ -86,7 +85,6 @@ Unity 2018.1.f4以上
 * アバター（VTuberやゲーム・SNSアバターなど）として使用すること
 * 「ミライ小町」3Dモデルを再頒布（改変して再頒布することも含む）すること
 * 「ミライ小町キャラクター使用に関するガイドライン」で禁止されていること
->>>>>>> 8d5d081... 1st commit
 
 ## 使用しているオープンソース
 
@@ -95,8 +93,3 @@ Unity 2018.1.f4以上
 
 * MToon
   * [https://github.com/Santarh/MToon](https://github.com/Santarh/MToon)
-<<<<<<< HEAD
-  * ソースコードを一部改変しています。
-=======
-  * ソースコードを一部改変しています。
->>>>>>> 8d5d081... 1st commit
