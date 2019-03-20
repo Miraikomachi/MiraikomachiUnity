@@ -66,28 +66,6 @@ We may change the contents of this license from time to time at our discretion.
 
 If this English version of the Character Guideline conflict to the Japanese version, the Japanese version shall prevail.
 
-## Unityバージョン
-
-Unity 2018.1.f4以上
-
-## ライセンスについて
-
-添付のLICENSEファイルをお読みください。
-
-## 「ミライ小町」のUnityプロジェクト使用について
-
-個人または同人サークルが、ゲーム、映像、画像などの創作活動におけるアセット素材としてご使用いただくことができます。
-また、法人や地方公共団体であっても、学術発表、教育、技術研究の用途に限りご使用いただけます。
-
-ただし、以下の事項は禁止させていただきますのでご了承ください。
-
-* 「ミライ小町」の3Dモデルを使用した創作物を商用利用すること
-* アバター（VTuberやゲーム・SNSアバターなど）として使用すること
-* 「ミライ小町」3Dモデルを再頒布（改変して再頒布することも含む）すること
-* 「ミライ小町キャラクター使用に関するガイドライン」で禁止されていること
-
-## 使用しているオープンソース
-
 * UnityChanSpringBone
   * [https://github.com/unity3d-jp/UnityChanSpringBone](https://github.com/unity3d-jp/UnityChanSpringBone)
 
