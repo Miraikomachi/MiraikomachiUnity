@@ -1,5 +1,7 @@
 # ミライ小町Unityプロジェクト
 
+![Screenshot](https://github.com/Miraikomachi/MiraikomachiUnity/blob/master/ScreenShots/ss001.png "Screenshot")
+
 ミライ小町オリジナルソング「ミライ」のミュージックビデオで使用したキャラクターモデルとダンスモーション、楽曲データを入れたUnity向けプロジェクトです。
 
 ## Unit version
