@@ -70,6 +70,8 @@ We may change the contents of this license from time to time at our discretion.
 
 If this English version of the Character Guideline conflict to the Japanese version, the Japanese version shall prevail.
 
+## Other open source assets
+
 * UnityChanSpringBone
   * [https://github.com/unity3d-jp/UnityChanSpringBone](https://github.com/unity3d-jp/UnityChanSpringBone)
 
