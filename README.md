@@ -41,6 +41,8 @@ Copyright (c) BANDAI NAMCO Studios Inc.
 
 Miraikomachi License Agreements
 
+Copyright (c) BANDAI NAMCO Studios Inc.
+
 This Character Guideline is a guideline for the use of Mirai Komachi illustrations, 3D models, and characters.
 
 Article 1 (License)
