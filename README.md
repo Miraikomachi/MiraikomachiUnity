@@ -77,3 +77,4 @@ If this English version of the Character Guideline conflict to the Japanese vers
 
 * MToon
   * [https://github.com/Santarh/MToon](https://github.com/Santarh/MToon)
+  * 一部ソースコード、シェーダコードを改変をしています。
