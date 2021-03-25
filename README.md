@@ -12,7 +12,7 @@ Unity 2018.1.f4 or later
 
 ミライ小町ライセンス　
 
-Copyright (c) BANDAI NAMCO Studios Inc.
+Copyright (c) Bandai Namco Research Inc.
 
 本キャラクターガイドラインは、「ミライ小町」のイラスト・画像、3Dモデルデータ、キャラクターの使用に関するガイドラインです。
 
@@ -42,7 +42,7 @@ Copyright (c) BANDAI NAMCO Studios Inc.
 
 Miraikomachi License Agreements
 
-Copyright (c) BANDAI NAMCO Studios Inc.
+Copyright (c) Bandai Namco Research Inc.
 
 This Character Guideline is a guideline for the use of Mirai Komachi illustrations, 3D models, and characters.
 
